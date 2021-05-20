@@ -1,0 +1,15 @@
+blastdb: "../../databases/4/CYANOBACTERIA_COMPLETE_GENOME_AND_CHROMOSOME.database"
+query_sequence: "CelluloseCandidates_Synechococcus7942.fasta"
+bw_taxid: 1140
+bw_e_value: 0.001
+bw_word_size: 3
+bw_num_threads: 4
+bw_num_alignments: 1
+bw_max_target_seqs: 1
+bw_max_hsps: 500
+fw_e_value: 0.001
+fw_word_size: 3
+fw_num_threads: 4
+fw_num_alignments: 10000
+fw_max_target_seqs: 10000
+fw_max_hsps: 500
